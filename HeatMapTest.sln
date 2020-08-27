@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatMapViewer", "..\HeatMapViewer\HeatMapViewer.csproj", "{4AA7DB8B-8C0A-4CF5-81F0-BE49CE02F4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatMapLibrary", "..\HeatMapLibrary\HeatMapLibrary.csproj", "{BBB8C6CF-7BEB-4BE5-BA56-C55345086D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA7DB8B-8C0A-4CF5-81F0-BE49CE02F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA7DB8B-8C0A-4CF5-81F0-BE49CE02F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA7DB8B-8C0A-4CF5-81F0-BE49CE02F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA7DB8B-8C0A-4CF5-81F0-BE49CE02F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB8C6CF-7BEB-4BE5-BA56-C55345086D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB8C6CF-7BEB-4BE5-BA56-C55345086D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB8C6CF-7BEB-4BE5-BA56-C55345086D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB8C6CF-7BEB-4BE5-BA56-C55345086D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18206D57-DB10-4873-B030-2DB65B7AEEA9}
+	EndGlobalSection
+EndGlobal
