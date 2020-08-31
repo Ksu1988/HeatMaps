@@ -1,0 +1,6 @@
+C:\Users\chayk\source\repos\HeatMapLibrary\bin\Debug\HeatMapLibrary.dll
+C:\Users\chayk\source\repos\HeatMapLibrary\bin\Debug\HeatMapLibrary.pdb
+C:\Users\chayk\source\repos\HeatMapLibrary\obj\Debug\HeatMapLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chayk\source\repos\HeatMapLibrary\obj\Debug\HeatMapLibrary.dll
+C:\Users\chayk\source\repos\HeatMapLibrary\obj\Debug\HeatMapLibrary.pdb
+C:\Users\chayk\source\repos\HeatMapLibrary\obj\Debug\HeatMapLibrary.csprojAssemblyReference.cache
